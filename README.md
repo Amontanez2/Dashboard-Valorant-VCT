@@ -16,6 +16,6 @@ El objetivo es proporcionar insights clave sobre el rendimiento de agentes, equi
 - **Kaggle:** Fuente de datos.
 
 ## 🌐 Vista Previa
-![Vista del Dashboard](ruta-de-la-imagen.png)
+![Vista del Dashboard]([ruta-de-la-imagen.png](https://raw.githubusercontent.com/Amontanez2/Dashboard-Valorant-VCT/refs/heads/main/dashboard%20valorant.png))
 
 
